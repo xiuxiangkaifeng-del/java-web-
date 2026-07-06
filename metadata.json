@@ -1,0 +1,6 @@
+{
+  "name": "JS Deobfuscator & Source Map Restorer",
+  "description": "An interactive studio to deobfuscate minified JS, split Webpack/Vite bundles, and reconstruct original source trees from source maps with AI-powered renaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
